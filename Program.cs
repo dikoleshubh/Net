@@ -7,7 +7,7 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            EmployeeAttendence.employee();
+            Wage.EmpWage();
         }
     }
 }
