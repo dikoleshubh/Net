@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\NewWorksop\bin\Debug\netcoreapp3.1\NewWorksop.exe
+C:\Users\Admin\source\repos\NewWorksop\bin\Debug\netcoreapp3.1\NewWorksop.deps.json
+C:\Users\Admin\source\repos\NewWorksop\bin\Debug\netcoreapp3.1\NewWorksop.runtimeconfig.json
+C:\Users\Admin\source\repos\NewWorksop\bin\Debug\netcoreapp3.1\NewWorksop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NewWorksop\bin\Debug\netcoreapp3.1\NewWorksop.dll
+C:\Users\Admin\source\repos\NewWorksop\bin\Debug\netcoreapp3.1\NewWorksop.pdb
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.dll
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.pdb
+C:\Users\Admin\source\repos\NewWorksop\obj\Debug\netcoreapp3.1\NewWorksop.genruntimeconfig.cache

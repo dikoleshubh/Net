@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NewWorksop/1.0.0": {
+        "runtime": {
+          "NewWorksop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewWorksop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
