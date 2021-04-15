@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NewWorksop
+namespace New
 {
     class Program
     {
