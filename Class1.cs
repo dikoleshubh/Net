@@ -111,7 +111,7 @@ namespace NewWorksop
                     }
                     else
                     {
-                        Console.WriteLine("You have got a Snake " + Initialposition);
+                        Console.WriteLine("You have got a Snake  " + Initialposition);
                     }
                     break;
 
